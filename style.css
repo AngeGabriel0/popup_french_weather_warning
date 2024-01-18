@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100;300;500;600&family=Rubik+Glitch&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Alexandria', sans-serif;
+    transition: 0.5s;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    color: #fff;
+    background-color:#0d1f22 ;
+
+}
+h1{
+    color: #14c378 ;
+    font-size: 50px;
+}
+p {
+    margin: 20px ;
+}
+
